@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+    color: red;
+    margin: 5.2rem;
+    padding-top: 140px;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
